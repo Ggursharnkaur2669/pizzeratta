@@ -1,2 +1,1 @@
-# pizzeratta
-capestone project
+# capestone
